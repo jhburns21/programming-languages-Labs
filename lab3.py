@@ -1,3 +1,7 @@
+# John Burns
+# CSCI 117
+# Program 3
+
 import sys
 sys.setrecursionlimit(10000)
 
